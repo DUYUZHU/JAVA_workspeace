@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChineseServlet/ChineseServlet.iml" filepath="$PROJECT_DIR$/ChineseServlet/ChineseServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1_user.iml" filepath="$PROJECT_DIR$/Project1_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task1_HelloWeb/Task1_HelloWeb.iml" filepath="$PROJECT_DIR$/Task1_HelloWeb/Task1_HelloWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task2_HelloServlet/Task2_HelloServlet.iml" filepath="$PROJECT_DIR$/Task2_HelloServlet/Task2_HelloServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task3_user/Task3_user.iml" filepath="$PROJECT_DIR$/Task3_user/Task3_user.iml" />
+    </modules>
+  </component>
+</project>

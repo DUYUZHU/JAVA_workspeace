@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/课前/Project1_User/Project1_User.iml" filepath="$PROJECT_DIR$/课前/Project1_User/Project1_User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课前/Project1_User/Task1_helloWeb/Task1_helloWeb.iml" filepath="$PROJECT_DIR$/课前/Project1_User/Task1_helloWeb/Task1_helloWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课前/Project1_User/Task2_helloServlet/Task2_helloServlet.iml" filepath="$PROJECT_DIR$/课前/Project1_User/Task2_helloServlet/Task2_helloServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课前/Project1_User/Task3_userLogin/Task3_userLogin.iml" filepath="$PROJECT_DIR$/课前/Project1_User/Task3_userLogin/Task3_userLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week3_课前准备清单.iml" filepath="$PROJECT_DIR$/.idea/Week3_课前准备清单.iml" />
+    </modules>
+  </component>
+</project>

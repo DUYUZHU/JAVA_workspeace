@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Task3_userLogin:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Task3_userLogin_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Task3_userLogin/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Task3_userLogin" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
